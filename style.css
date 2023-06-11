@@ -56,11 +56,11 @@ header{
     margin: 2rem 32rem;
 }
 .hero-section{
-  
     display: grid;
-    gap: 50px 0px;
+    gap: 50px 54px;
     grid-template-columns: 1fr 1fr 1fr;
-    margin:  7em 10em;;
+    margin: 7em 7em;
+}
  
     
 
